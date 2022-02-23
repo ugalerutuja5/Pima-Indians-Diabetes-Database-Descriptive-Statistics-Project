@@ -9,4 +9,4 @@
 # BMI: Body mass index (weight in kg/(height in m)^2) 
 # Diabetes Pedigree Function: Diabetes pedigree function
 # Age: Age (years)
-# Outcome: Class variable (0 or 1) 0 mean non-diabetic and 1 means diabetic
+# Outcome: Class variable (0 or 1) 0 mean non-diabetic and 1 means diabetic.
