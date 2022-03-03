@@ -10,3 +10,4 @@
 # Diabetes Pedigree Function: Diabetes pedigree function
 # Age: Age (years)
 # Outcome: Class variable (0 or 1) 0 mean non-diabetic and 1 means diabetic.
+# our dependent variable i.e. outcome
